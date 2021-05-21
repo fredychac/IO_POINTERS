@@ -28,7 +28,7 @@
 #define PIN4    (0x10)
 #define FALSE   0
 #define TRUE    1
-
+#define GIT     21052021
 /************************************************
 DECLARACION DE APUNTADORES PARA ACCESO A MEMORIA
  ************************************************/
