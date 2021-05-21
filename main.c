@@ -29,6 +29,7 @@
 #define FALSE   0
 #define TRUE    1
 #define GIT     21052021
+#define GIT2     1234
 /************************************************
 DECLARACION DE APUNTADORES PARA ACCESO A MEMORIA
  ************************************************/
